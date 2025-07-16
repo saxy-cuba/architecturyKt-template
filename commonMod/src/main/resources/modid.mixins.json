@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "modid.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+  ],
+  "mixins": [
+  ]
+}
